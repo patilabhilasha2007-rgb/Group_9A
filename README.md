@@ -1,4 +1,8 @@
 # Group_9A
+```text
+Digital queue management system for health camps help me genearate project planning to do this project using full stack node.js+json(database)+js. run in local host multipleuserlogin.simple light weight student project first help me in planning dont give directly the code
+```
+
 # **Digital Queue Management System for Health Camps**
 
 This is a good full-stack student project because it solves a real-world problem and allows you to demonstrate frontend development, backend development, database management, and multiple-user login.
